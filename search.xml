@@ -135,12 +135,12 @@
       <link href="/2024/05/11/%E6%88%91%E4%BB%AC%E7%9A%84%E8%AE%BA%E5%9D%9B/"/>
       <url>/2024/05/11/%E6%88%91%E4%BB%AC%E7%9A%84%E8%AE%BA%E5%9D%9B/</url>
       
-        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>我们为什么要拥有一个<strong>论坛</strong>？最简单地原因是目前使用的[*anzhiyu*](<a href="https://docs.anheyu.com/">安知鱼主题官方文档 | 一个简洁、美丽的静态hexo主题 (anheyu.com)</a>)不支持gitalk或是别的基于Github Issues的免费评论方案。在论坛上，更加方便大伙讨论问题，<del>也能让大伙有一个闲时吹水的地方。</del><strong>需要注意的是</strong>，论坛地址随时有可能更换！目前的是：<a href="https://bqxhbbs.flarum.cloud/">八泉学会BBS (flarum.cloud)</a></p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li><p><strong>不要</strong>在上面暴露个人信息</p></li><li><p><strong>不要</strong>讨论过于<strong>敏感</strong>的话题</p></li><li><p><strong>不要</strong>到处宣传，以免进来奇怪的人员。</p></li></ul><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><ol><li>为什么会登不上？</li></ol><p>这种通常是因为网络原因，可以换一下DNS，可以参考一下<a href="https://alidns.com/knowledge?type=SETTING_DOCS#user_android">阿里公共DNS</a>这篇文章。</p><ol start="2"><li>待补充……</li></ol>]]></content>
+        <content type="html"><![CDATA[<h2 id="我们为什么要拥有一个论坛？"><a href="#我们为什么要拥有一个论坛？" class="headerlink" title="我们为什么要拥有一个论坛？"></a>我们为什么要拥有一个<strong>论坛</strong>？</h2><p>最简单地原因是目前使用的[*anzhiyu*](<a href="https://docs.anheyu.com/">安知鱼主题官方文档 | 一个简洁、美丽的静态hexo主题 (anheyu.com)</a>)不支持gitalk或是别的基于Github Issues的免费评论方案。在论坛上，更加方便大伙讨论问题，<del>也能让大伙有一个闲时吹水的地方。</del><strong>需要注意的是</strong>，论坛地址随时有可能更换！目前的是：<a href="https://bqxhbbs.flarum.cloud/">八泉学会BBS (flarum.cloud)</a></p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li><p><strong>不要</strong>在上面暴露个人信息</p></li><li><p><strong>不要</strong>讨论过于<strong>敏感</strong>的话题</p></li><li><p><strong>不要</strong>到处宣传，以免进来奇怪的人员。</p></li></ul><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><ol><li>为什么会登不上？</li></ol><p>这种通常是因为网络原因，可以换一下DNS，可以参考一下<a href="https://alidns.com/knowledge?type=SETTING_DOCS#user_android">阿里公共DNS</a>这篇文章。</p><ol start="2"><li>待补充……</li></ol>]]></content>
       
       
       <categories>
           
-          <category> 论坛 </category>
+          <category> Tech </category>
           
       </categories>
       
